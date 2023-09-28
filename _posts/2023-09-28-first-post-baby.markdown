@@ -11,6 +11,7 @@ categories: update
 
 I hope you like it!
 
+some code: 
 
 {% highlight rust %}
 fn main() {
